@@ -1,5 +1,5 @@
 # streamlit-pdf-preview
-```
+
 在使用Streamlit进行PDF文件预览的实现中，主要可以通过`streamlit-pdf-viewer`这个组件来实现。这个组件允许在Streamlit应用中可视化和丰富PDF文档的内容。以下是实现步骤和代码示例：
 
 ### 安装`streamlit-pdf-viewer`
@@ -54,4 +54,4 @@ Citations:
 [8] https://gist.github.com/insightsbees/f7b4388c85ac750856f8722c94199566
 [9] https://discuss.streamlit.io/t/display-pdf-in-streamlit/62274
 [10] https://display-pdf.streamlit.app
-```
+
